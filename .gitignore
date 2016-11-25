@@ -1,0 +1,5 @@
+/public_html/*.html
+/public_html/*.txt
+/public_html/cgi-bin/
+/public_html/tmp/
+/public_html/settings.php
